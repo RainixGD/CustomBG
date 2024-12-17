@@ -1,0 +1,18 @@
+{
+	"settings": {
+		"NoGroundInLevelSearchLayer": true
+	},
+	"backgrounds": {
+		"MenuLayer": 			"islands.png",
+		"CreatorLayer": 		"mountains.png",
+		"GarageLayer": 			"space.png",
+		"LevelSearchLayer": 	"islands.png",
+		"LevelBrowserLayer": 	"islands.png",
+		"LevelSelectLayer": 	"islands.png",
+		"LevelInfoLayer": 		"islands.png",
+		"LeaderLayer": 			"islands.png",
+		"GauntletLayer": 		"islands.png",
+		"GauntletSelectLayer": 	"islands.png",
+		"EditLevelLayer": 		"islands.png"
+	}
+}
